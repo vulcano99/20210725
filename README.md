@@ -1,1 +1,301 @@
-# 20210725
+#EXTM3U
+#EXTINF:-1,LA 1 HD
+http://188.127.185.198:9981/stream/channelid/1120869687
+#EXTINF:-1,La 2 HD
+http://188.127.185.198:9981/stream/channelid/1059876941
+#EXTINF:-1,antena3 HD
+http://188.127.185.198:9981/stream/channelid/823904508
+#EXTINF:-1,Cuatro HD
+http://188.127.185.198:9981/stream/channelid/235622676
+#EXTINF:-1,Telecinco HD
+http://188.127.185.198:9981/stream/channelid/102093518
+#EXTINF:-1,laSexta HD
+http://188.127.185.198:9981/stream/channelid/415262339
+#EXTINF:-1,#0 HD
+http://188.127.185.198:9981/stream/channelid/2007932582
+#EXTINF:-1,DIVINITY
+http://188.127.185.198:9981/stream/channelid/1074568515
+#EXTINF:-1,neox
+http://188.127.185.198:9981/stream/channelid/1916481458
+#EXTINF:-1,NOVA
+http://188.127.185.198:9981/stream/channelid/720912381
+#EXTINF:-1,#VAMOSHD
+http://188.127.185.198:9981/stream/channelid/1864393825
+#EXTINF:-1,Realmadrid TV HD
+http://188.127.185.198:9981/stream/channelid/1858938605
+#EXTINF:-1,M. SERIES HD
+http://188.127.185.198:9981/stream/channelid/1264894406
+#EXTINF:-1,nia HD
+http://188.127.185.198:9981/stream/channelid/1817620322
+#EXTINF:-1,FOX HD
+http://188.127.185.198:9981/stream/channelid/1652366277
+#EXTINF:-1,AXN HD
+http://188.127.185.198:9981/stream/channelid/1886661951
+#EXTINF:-1,TNT HD
+http://188.127.185.198:9981/stream/channelid/1352068859
+#EXTINF:-1,COMEDY CENTRAL
+http://188.127.185.198:9981/stream/channelid/1523103767
+#EXTINF:-1,CALLE 13 HD 
+http://188.127.185.198:9981/stream/channelid/598560400
+#EXTINF:-1,COSMO HD
+http://188.127.185.198:9981/stream/channelid/1045725222
+#EXTINF:-1,AMC HD
+http://188.127.185.198:9981/stream/channelid/885467726
+#EXTINF:-1,FOX LIFE HD
+http://188.127.185.198:9981/stream/channelid/1550628883
+#EXTINF:-1,AXN WHITE HD
+http://188.127.185.198:9981/stream/channelid/1591326206
+#EXTINF:-1,SYFY HD
+http://188.127.185.198:9981/stream/channelid/506936223
+#EXTINF:-1,MTV ESPAÑA
+http://188.127.185.198:9981/stream/channelid/776360406
+#EXTINF:-1,FDF
+http://188.127.185.198:9981/stream/channelid/33035081
+#EXTINF:-1,ENERGY
+http://188.127.185.198:9981/stream/channelid/965007777
+#EXTINF:-1,HD
+http://188.127.185.198:9981/stream/channelid/981570235
+#EXTINF:-1,&Roll
+http://188.127.185.198:9981/stream/channelid/590542770
+#EXTINF:-1,DreamWorks HD
+http://188.127.185.198:9981/stream/channelid/1046601232
+#EXTINF:-1,M. ACCIÓN HD
+http://188.127.185.198:9981/stream/channelid/810706216
+#EXTINF:-1,HD
+http://188.127.185.198:9981/stream/channelid/1378598763
+#EXTINF:-1,M. DRAMA HD
+http://188.127.185.198:9981/stream/channelid/1138067446
+#EXTINF:-1,M. Cine Español
+http://188.127.185.198:9981/stream/channelid/139690342
+#EXTINF:-1,TCM HD
+http://188.127.185.198:9981/stream/channelid/546824203
+#EXTINF:-1,HOLLYWOODHD
+http://188.127.185.198:9981/stream/channelid/106985529
+#EXTINF:-1,SUNDANCE TV
+http://188.127.185.198:9981/stream/channelid/355443172
+#EXTINF:-1,PARAMOUNT
+http://188.127.185.198:9981/stream/channelid/1297738487
+#EXTINF:-1,MULTIDEPORTE
+http://188.127.185.198:9981/stream/channelid/1781528200
+#EXTINF:-1,M. LaLiga HD
+http://188.127.185.198:9981/stream/channelid/240470664
+#EXTINF:-1,M. LaLiga 1 HD
+http://188.127.185.198:9981/stream/channelid/225610455
+#EXTINF:-1,M. LaLiga 2 HD
+http://188.127.185.198:9981/stream/channelid/209461974
+#EXTINF:-1,M. LaLiga 3 HD
+http://188.127.185.198:9981/stream/channelid/252999622
+#EXTINF:-1,DAZN 1 HD
+http://188.127.185.198:9981/stream/channelid/49458401
+#EXTINF:-1,DAZN 2 HD
+http://188.127.185.198:9981/stream/channelid/585899775
+#EXTINF:-1,DAZN 3 HD
+http://188.127.185.198:9981/stream/channelid/31718495
+#EXTINF:-1,DAZN 4 HD
+http://188.127.185.198:9981/stream/channelid/17155097
+#EXTINF:-1,ES
+http://188.127.185.198:9981/stream/channelid/2021381265
+#EXTINF:-1,1
+http://188.127.185.198:9981/stream/channelid/1852326684
+#EXTINF:-1,2
+http://188.127.185.198:9981/stream/channelid/178648530
+#EXTINF:-1,M. DEPORTESHD
+http://188.127.185.198:9981/stream/channelid/1667945537
+#EXTINF:-1,M. DEPORTES1HD
+http://188.127.185.198:9981/stream/channelid/1039796367
+#EXTINF:-1,DAZN F1 HD
+http://188.127.185.198:9981/stream/channelid/710414213
+#EXTINF:-1,M. GOLF HD
+http://188.127.185.198:9981/stream/channelid/1471800830
+#EXTINF:-1,EUROSPORT1HD 
+http://188.127.185.198:9981/stream/channelid/1010419156
+#EXTINF:-1,EUROSPORT 2
+http://188.127.185.198:9981/stream/channelid/1063392178
+#EXTINF:-1,GOL
+http://188.127.185.198:9981/stream/channelid/502635163
+#EXTINF:-1,TELEDEPORTE
+http://188.127.185.198:9981/stream/channelid/1880237275
+#EXTINF:-1,24h HD
+http://188.127.185.198:9981/stream/channelid/495151868
+#EXTINF:-1,atreseries HD
+http://188.127.185.198:9981/stream/channelid/2094496881
+#EXTINF:-1,BeMad tv HD
+http://188.127.185.198:9981/stream/channelid/916715064
+#EXTINF:-1,BOM
+http://188.127.185.198:9981/stream/channelid/130554982
+#EXTINF:-1,Clan HD
+http://188.127.185.198:9981/stream/channelid/355093609
+#EXTINF:-1,Divinity
+http://188.127.185.198:9981/stream/channelid/31004574
+#EXTINF:-1,DMAX
+http://188.127.185.198:9981/stream/channelid/1538340319
+#EXTINF:-1,GOL
+http://188.127.185.198:9981/stream/channelid/588696673
+#EXTINF:-1,La 1 HD
+http://188.127.185.198:9981/stream/channelid/145001731
+#EXTINF:-1,LA OTRA HD
+http://188.127.185.198:9981/stream/channelid/1337940994
+#EXTINF:-1,mega
+http://188.127.185.198:9981/stream/channelid/52713306
+#EXTINF:-1,nova
+http://188.127.185.198:9981/stream/channelid/1093612607
+#EXTINF:-1,PARAMOUNT NETWORK
+http://188.127.185.198:9981/stream/channelid/1547547008
+#EXTINF:-1,tdp HD
+http://188.127.185.198:9981/stream/channelid/81207696
+#EXTINF:-1,Telemadrid HD
+http://188.127.185.198:9981/stream/channelid/460778755
+#EXTINF:-1,#VAMOS
+http://188.127.185.198:9981/stream/channelid/831972249
+#EXTINF:-1,#VAMOS
+http://188.127.185.198:9981/stream/channelid/1692245078
+#EXTINF:-1,#VAMOS BAR2
+http://188.127.185.198:9981/stream/channelid/1045810440
+#EXTINF:-1,24 HORAS
+http://188.127.185.198:9981/stream/channelid/1486429171
+#EXTINF:-1,Al Jazeera English HD
+http://188.127.185.198:9981/stream/channelid/1673005823
+#EXTINF:-1,ALQUILER HD
+http://188.127.185.198:9981/stream/channelid/1953238741
+#EXTINF:-1,ALQUILER XX
+http://188.127.185.198:9981/stream/channelid/649065450
+#EXTINF:-1,AMC
+http://188.127.185.198:9981/stream/channelid/1997354011
+#EXTINF:-1,ANTENA 3
+http://188.127.185.198:9981/stream/channelid/1136761948
+#EXTINF:-1,ANTENA 3 HD
+http://188.127.185.198:9981/stream/channelid/1069711684
+#EXTINF:-1,BabyTV
+http://188.127.185.198:9981/stream/channelid/1266633958
+#EXTINF:-1,BARÇA TV
+http://188.127.185.198:9981/stream/channelid/1662486231
+#EXTINF:-1,BBC World News Europe HD
+http://188.127.185.198:9981/stream/channelid/1927111611
+#EXTINF:-1,BE MAD
+http://188.127.185.198:9981/stream/channelid/1486966317
+#EXTINF:-1,BLAZE
+http://188.127.185.198:9981/stream/channelid/424197525
+#EXTINF:-1,BOING
+http://188.127.185.198:9981/stream/channelid/2006770257
+#EXTINF:-1,CANAL COCINA
+http://188.127.185.198:9981/stream/channelid/1919799205
+#EXTINF:-1,CANAL PANDA
+http://188.127.185.198:9981/stream/channelid/348604921
+#EXTINF:-1,CANAL SUR A.
+http://188.127.185.198:9981/stream/channelid/325956384
+#EXTINF:-1,CAZA Y PESCA
+http://188.127.185.198:9981/stream/channelid/579794612
+#EXTINF:-1,CAZAyPESCA HD
+http://188.127.185.198:9981/stream/channelid/729894430
+#EXTINF:-1,CLAN TVE
+http://188.127.185.198:9981/stream/channelid/677645175
+#EXTINF:-1,CLASSICA
+http://188.127.185.198:9981/stream/channelid/954571669
+#EXTINF:-1,COSMO
+http://188.127.185.198:9981/stream/channelid/19972707
+#EXTINF:-1,CRIMEN+INVES
+http://188.127.185.198:9981/stream/channelid/112395514
+#EXTINF:-1,DAZN 1
+http://188.127.185.198:9981/stream/channelid/1366869926
+#EXTINF:-1,DAZN 2
+http://188.127.185.198:9981/stream/channelid/891033495
+#EXTINF:-1,DAZN F1
+http://188.127.185.198:9981/stream/channelid/1554856504
+#EXTINF:-1,DISCOVERY
+http://188.127.185.198:9981/stream/channelid/2144869174
+#EXTINF:-1,DISNEY CH HD
+http://188.127.185.198:9981/stream/channelid/949303046
+#EXTINF:-1,DISNEY CH.
+http://188.127.185.198:9981/stream/channelid/1697385476
+#EXTINF:-1,Energy
+http://188.127.185.198:9981/stream/channelid/955577212
+#EXTINF:-1,EUROSPORT 1
+http://188.127.185.198:9981/stream/channelid/822658423
+#EXTINF:-1,FOX NEWS
+http://188.127.185.198:9981/stream/channelid/1290905189
+#EXTINF:-1,HISTORIA
+http://188.127.185.198:9981/stream/channelid/1974155452
+#EXTINF:-1,INSIGHT TV HD
+http://188.127.185.198:9981/stream/channelid/1642731393
+#EXTINF:-1,LA 1
+http://188.127.185.198:9981/stream/channelid/1665762415
+#EXTINF:-1,LA SEXTA
+http://188.127.185.198:9981/stream/channelid/757217068
+#EXTINF:-1,LALIGATVBAR2
+http://188.127.185.198:9981/stream/channelid/1931143745
+#EXTINF:-1,M. DEPORTES1
+http://188.127.185.198:9981/stream/channelid/1822395848
+#EXTINF:-1,M. DEPORTES1
+http://188.127.185.198:9981/stream/channelid/513449765
+#EXTINF:-1,M. DEPORTES5
+http://188.127.185.198:9981/stream/channelid/941458055
+#EXTINF:-1,M. DEPORTES6
+http://188.127.185.198:9981/stream/channelid/229915767
+#EXTINF:-1,M. ESTRENOS
+http://188.127.185.198:9981/stream/channelid/1068200391
+#EXTINF:-1,M. LaLiga 1
+http://188.127.185.198:9981/stream/channelid/1453379273
+#EXTINF:-1,M. LaLiga 5
+http://188.127.185.198:9981/stream/channelid/1285963467
+#EXTINF:-1,M. SERIES
+http://188.127.185.198:9981/stream/channelid/433104244
+#EXTINF:-1,M. SERIESMANIA
+http://188.127.185.198:9981/stream/channelid/694074407
+#EXTINF:-1,M. VHS
+http://188.127.185.198:9981/stream/channelid/803479094
+#EXTINF:-1,&Roll
+http://188.127.185.198:9981/stream/channelid/336895753
+#EXTINF:-1,2
+http://188.127.185.198:9981/stream/channelid/1507393492
+#EXTINF:-1,7
+http://188.127.185.198:9981/stream/channelid/2043368141
+#EXTINF:-1,ES
+http://188.127.185.198:9981/stream/channelid/322438400
+#EXTINF:-1,MEZZO
+http://188.127.185.198:9981/stream/channelid/1111437808
+#EXTINF:-1,NAT GEO HD
+http://188.127.185.198:9981/stream/channelid/1189748238
+#EXTINF:-1,NEOX
+http://188.127.185.198:9981/stream/channelid/1067671590
+#EXTINF:-1,NG WILD HD
+http://188.127.185.198:9981/stream/channelid/1485941078
+#EXTINF:-1,NHK WORLD-JPN
+http://188.127.185.198:9981/stream/channelid/1139896209
+#EXTINF:-1,NICK JR
+http://188.127.185.198:9981/stream/channelid/842739934
+#EXTINF:-1,NICKELODEON
+http://188.127.185.198:9981/stream/channelid/571457129
+#EXTINF:-1,NICKELODEON
+http://188.127.185.198:9981/stream/channelid/128338507
+#EXTINF:-1,PLAYBOY TV
+http://188.127.185.198:9981/stream/channelid/418547744
+#EXTINF:-1,QVC UHD
+http://188.127.185.198:9981/stream/channelid/2108636886
+#EXTINF:-1,R. MADRID TV
+http://188.127.185.198:9981/stream/channelid/863887417
+#EXTINF:-1,Radio Maryja
+http://188.127.185.198:9981/stream/channelid/1952452611
+#EXTINF:-1,TCM
+http://188.127.185.198:9981/stream/channelid/76010226
+#EXTINF:-1,TELECINCO HD
+http://188.127.185.198:9981/stream/channelid/1240038781
+#EXTINF:-1,TNT
+http://188.127.185.198:9981/stream/channelid/1287729606
+#EXTINF:-1,TOROS
+http://188.127.185.198:9981/stream/channelid/2113747735
+#EXTINF:-1,TOROS HD
+http://188.127.185.198:9981/stream/channelid/708713016
+#EXTINF:-1,TV Trwam
+http://188.127.185.198:9981/stream/channelid/458742994
+#EXTINF:-1,VIAJAR
+http://188.127.185.198:9981/stream/channelid/39049711
+#EXTINF:-1,VIAJAR HD
+http://188.127.185.198:9981/stream/channelid/1283556740
+#EXTINF:-1,{name-not-set}
+http://188.127.185.198:9981/stream/channelid/923454127
+#EXTINF:-1,{name-not-set}
+http://188.127.185.198:9981/stream/channelid/37664342
+#EXTINF:-1,CUATRO HD
+http://188.127.185.198:9981/stream/channelid/1914929696
+#EXTINF:-1,FDF
+http://188.127.185.198:9981/stream/channelid/1778061957
